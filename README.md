@@ -56,5 +56,5 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/chuhaiphu/chuhaiphu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Panda0712/Panda0712/output/pacman-contribution-graph.svg">
 <br>
