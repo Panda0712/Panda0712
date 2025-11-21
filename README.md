@@ -1,20 +1,10 @@
 ### 🌐 A Passionate undergraduate student dedicated to mastering Full-Stack technologies, seeking an opportunity in a professional environment to apply practical development skills and contribute to real-world products
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Tuan;I+build+modern+web+apps+with+React+%26+NextJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=470&lines=Hi%2C+I'm+Tuan;Let%E2%80%99s+build+something+amazing+together+%E2%9C%A8)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="320" width="640" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+  <img height="320" width="640" src="[https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"/>
 </div>
-<br>
-
-<h2>🏆 My Certifications 🏆 &nbsp; <a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a></h2>
-<p align="left">
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f0c74e206357411bb05dff111de6452e"><img src="./aws-certified-solutions-architect-associate.png" width="14%"/></a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/46a217bc49934cd2a8b58ac56e28945e"><img src="./aws-certified-cloud-practitioner.png" width="14%"/></a>
-  <a href="https://www.credly.com/badges/eb592b80-04e0-425b-a95d-4f2839348c92/public_url"><img src="./cloud-digital-leader-certification.png" width="13%"/></a>
-  <a href="https://www.credly.com/badges/852a672b-6049-4b49-8a56-7e03b5d5cc35/public_url"><img src="./mongodb-associate-developer.7.png" width="15%"/></a>
-</p>
-
 <br>
 
 <h2>🛠️ Tech Stacks that I am currently capable of 🛠️</h2>
