@@ -44,7 +44,7 @@
 
 <h2>🔧 Libraries n Tools I use 🔧</h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=materialui,tailwindcss,maven,npm,yarn,prisma" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,tailwindcss,sass,npm,yarn,prisma" /><br>
   <img src="https://skillicons.dev/icons?i=docker,vscode,idea,github,gitlab,postman" /><br>
 </div>
 
