@@ -19,12 +19,12 @@
 <p align="left">
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJS"/></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="Typescript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" alt="Typescript"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS"/></a>
-  <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" alt="Redux"/></a>
-  <a href="https://tanstack.com/"><img src="https://img.shields.io/badge/-React--Query-FF4154?logo=react-query&logoColor=white" alt="React Query"/></a>
+  <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux" alt="Redux"/></a>
+  <a href="https://tanstack.com/"><img src="https://img.shields.io/badge/-React--Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query"/></a>
   <a href="https://ui.shadcn.com/"><img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge" alt="Shadcn UI"/></a>
-  <a href="https://ant.design/"><img src="https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE" alt="Ant Design"/></a>
+  <a href="https://ant.design/"><img src="https://img.shields.io/badge/-Ant%20Design-333333?style=for-the-badge&logo=ant-design&logoColor=0170FE" alt="Ant Design"/></a>
 </p>
 
 ### Database
